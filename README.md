@@ -1,5 +1,3 @@
-Claro! Aqui está um modelo sugerido para o seu README no repositório "Imersão SAP Cloud Integration":
-
 ---
 # Imersão SAP Cloud Integration
 
@@ -33,7 +31,7 @@ Este repositório contém exemplos, scripts e recursos relacionados ao uso do **
 
 1. Clone este repositório:  
    ```bash
-   git clone git clone https://github.com/seu-usuario/imersao-sap-cloud-integration.git
+   git clone git clone https://github.com/douglasrobert/ImersaoSapCloudIntegration/tree/main/Iflows
    ```
 2. Navegue pelos diretórios para acessar os exemplos e scripts.
 3. Configure os iFlows usando o ambiente SAP Integration Suite.
